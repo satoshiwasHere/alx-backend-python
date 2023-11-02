@@ -79,7 +79,7 @@ class TestMemoize(TestCase):
             """
 
             def a_method(self):
-                """ 
+                """
                 This Method always return 42
                 """
                 return 42
